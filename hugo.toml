@@ -38,7 +38,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
   [Params.widgets.search]
   cached = false # activate cache if true
-  url = "https://google.com/"
+  url = "/search/"
   [Params.widgets.search.input]
-    name = "sitesearch"
+    name = false
     pre = ""
