@@ -45,3 +45,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.style.vars]
   highlightColor = "#3d89c9"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.8
