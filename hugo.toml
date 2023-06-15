@@ -48,9 +48,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   highlightColor = "#3d89c9"
 
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "daily"
   filename = "sitemap.xml"
-  priority = 0.8
+  priority = 1
 
 
 [markup]
