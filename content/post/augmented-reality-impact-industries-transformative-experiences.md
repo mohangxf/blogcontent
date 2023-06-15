@@ -2,6 +2,7 @@
 title: "Augmented Reality (AR): Revolutionizing Industries and Transforming Experiences"
 description: "Discover the transformative power of Augmented Reality (AR) as we explore its impact across various industries. From immersive gaming experiences and interactive education to revolutionizing healthcare and retail, AR is reshaping the way we interact with the digital world. Join us to uncover the incredible possibilities of AR and how it is revolutionizing industries while enhancing user experiences. Step into a future where augmented reality becomes an indispensable tool, blurring the boundaries between virtual and physical realms."
 date: 2023-06-12
+sidebar : false
 thumbnail: "img/augmented-reality.png"
 tags:
   - "Augmented Reality"
