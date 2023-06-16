@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  description = " GXFreee.com is a comprehensive resource hub dedicated to technical and development topics. Our platform offers valuable insights, tutorials, and the latest information to help aspiring and seasoned developers enhance their skills, stay up-to-date with industry trends, and unlock their full potential in the world of technology. From web development and software engineering to mobile app development and data science, we cover a wide range of subjects, providing practical tips, best practices, and real-world examples to help our readers thrive in their respective fields. Join our vibrant community, engage with fellow enthusiasts, and embark on an exciting journey of growth and innovation." # Description of your site 
+  description = "Unlock Your Tech Potential at GXFreee.com: Insights, Tutorials, and Industry Trends for Developers. Join our vibrant community for growth and innovation!" # Description of your site 
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
@@ -57,3 +57,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+enableRobotsTXT = true
+canonifyURLs = true
+# and if you think your md file names or locations might change:
+[permalinks]
+    post = "/blog/:title/"
