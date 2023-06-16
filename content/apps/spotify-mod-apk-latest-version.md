@@ -27,3 +27,14 @@ Discover additional customization options within Spotify Mod APK, such as the ab
 Stay informed about updates and new versions of Spotify Mod APK, ensuring that you have the latest features and bug fixes. We'll provide tips on staying up-to-date with the modified app while maintaining a secure and reliable installation.
 
 With Spotify Mod APK, you can unlock premium features and enjoy an enhanced music streaming experience without any subscription costs. By following our installation guide and exploring the customization options, you'll have access to unlimited music, ad-free listening, and a host of premium features. Elevate your Spotify experience and enjoy the world of music on your terms with Spotify Mod APK.
+
+
+<div class="center">
+
+<button class="dbutton btn" id="generateBtn">Generate Download Link</button>
+
+<div id="progressBar" style="display: none;color:#e22d30;">Your Download Link Processing... please wait</div>
+<div id="successText" style="display: none;padding: 15px;color:#017a0a;}">Download link generated successfully!</div>
+<button class="dbutton btn" id="downloadBtn" onclick="window.open('https://drive.google.com/file/d/1_Ko7H58BKtr9nlypfCBMGcHkyCmHCeBh/view?usp=drive_link', '_blank')" style="display: none;">Download</button>
+
+</div>
